@@ -1,29 +1,28 @@
-body
-    {   width: 680px;
-        margin: 0 auto;
-        font-size: medium;color: rgb(14, 0, 0);
-        padding: 2%;
-        font-family: 'Oxygen', sans-serif;
+body {
+        width           : 680px;
+        margin          : 0 auto;
+        font-size       : medium;
+        color           : rgb(14, 0, 0);
+        padding         : 2%;
+        font-family     : 'Oxygen', sans-serif;
         background-color: rgb(245, 236, 185);
-    }
+}
 
 
 .niv1 {
-        display: flex;   
+        display        : flex;
         justify-content: space-between;
-        line-height: 4rem;
-          }
-  
+        line-height    : 4rem;
+}
 
-.Over
-     { 
-       font-style: bold;
-       font-size: 150%;
-       margin-left: -5%;
-     }
 
-.lieno 
-        { 
-         text-decoration:none;
-         margin-right: -5%;
-        } 
+.Over {
+        font-style : bold;
+        font-size  : 150%;
+        margin-left: -5%;
+}
+
+.lieno {
+        text-decoration: none;
+        margin-right   : -5%;
+}
